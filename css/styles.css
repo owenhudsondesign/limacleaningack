@@ -458,6 +458,11 @@ p {
     .nav__phone {
         display: none;
     }
+
+    .nav__actions .btn {
+        padding: var(--space-2) var(--space-4);
+        font-size: var(--text-sm);
+    }
 }
 
 /* ===================================
@@ -686,6 +691,7 @@ p {
 
     .hero__image-wrapper {
         max-width: 400px;
+        padding: 0 var(--space-6);
     }
 
     .hero__floating-card {
