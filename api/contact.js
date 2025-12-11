@@ -19,7 +19,7 @@ export default async function handler(req, res) {
         const { to, from, subject, replyTo, html } = req.body;
 
         // Validate required fields
-        if (!subject || !html || !replyTo) {
+        if (!subject || !html) {
             return res.status(400).json({ error: 'Missing required fields' });
         }
 
