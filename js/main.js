@@ -1,5 +1,5 @@
 /**
- * Smile House Cleaning - Main JavaScript
+ * Lima Cleaning - Main JavaScript
  * Handles navigation, animations, testimonial slider, and form submission
  */
 

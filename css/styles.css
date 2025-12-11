@@ -1,5 +1,5 @@
 /* ===================================
-   Smile House Cleaning - Modern Redesign
+   Lima Cleaning - Modern Redesign
    Humanist, Friendly, Warm Aesthetic
    =================================== */
 
@@ -351,7 +351,7 @@ p {
     color: var(--color-text-light);
 }
 
-.header.scrolled .nav__logo-smile,
+.header.scrolled .nav__logo-text,
 .header.scrolled .nav__logo-icon {
     color: var(--color-primary);
 }

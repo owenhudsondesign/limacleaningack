@@ -1,7 +1,7 @@
 {
-  "name": "smile-house-cleaning",
+  "name": "lima-cleaning",
   "version": "1.0.0",
-  "description": "Smile House Cleaning - Nantucket's Trusted Cleaning Service",
+  "description": "Lima Cleaning - Nantucket's Trusted Cleaning Service",
   "private": true,
   "scripts": {
     "dev": "npx serve .",
